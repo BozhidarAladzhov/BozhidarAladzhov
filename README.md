@@ -7,8 +7,8 @@
 - 💡 **I graduated with a bachelor's degree and a master's degree in the field of international economic relations and business management. Computer technologies has always been my passion and I set out to combine the two areas in which I am good. I have above 10 years experience in freight forwarding narrowly specialized in international car shipping from USA and Canada. I found in programming the happiness of creating something useful for yourself and others.**
 
 <h3 align="left">📦 Projects:</h3>
-<p align="left"> ✅ Vehicle transport calculator - SoftUni graduating project. <a href="https://github.com/BozhidarAladzhov/Vehicle-transport-calculator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
-<p align="left"> 🔜🔨 Easy Import - Vehicle transport calculator, started from scratch with my visions without following exam requirements and rules. <a href="https://github.com/BozhidarAladzhov/EasyImport" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
+<p align="left"> ✅Vehicle transport calculator - SoftUni graduating project. <a href="https://github.com/BozhidarAladzhov/Vehicle-transport-calculator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
+<p align="left"> 🔜🔨Easy Import - Vehicle transport calculator, started from scratch with my visions without following exam requirements and rules. <a href="https://github.com/BozhidarAladzhov/EasyImport" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
 
 <span> </span>
 
