@@ -1,20 +1,30 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Aladzhov</h1>
-<h3 align="center">A passionate backend java developer from Bulgaria.</h3>
+<h2 align="center">A passionate backend java developer from Bulgaria.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bozhidaraladzhov&label=Profile%20views&color=0e75b6&style=flat" alt="bozhidaraladzhov" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🎓 ***Junior Java Backend Developer***
+  
+- 💡 **I graduated with a bachelor's degree and a master's degree in the field of international economic relations and business management. Computer technologies has always been my passion and I set out to combine the two areas in which I am good. I have above 10 years experience in freight forwarding narrowly specialized in international car shipping from USA and Canada. I found in programming the happiness of creating something useful for yourself and others.**
 
-- 👯 I’m looking to collaborate on **Software development projects.**
+<h3 align="left">📦 Projects:</h3>
+<p align="left"> Vehicle transport calculator - SoftUni graduating project. <a href="https://github.com/BozhidarAladzhov/Vehicle-transport-calculator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
+<p align="left"> Easy Import - Vehicle transport calculator, started from scratch with my visions without following exam requirements and rules. <a href=https://github.com/BozhidarAladzhov/EasyImport" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
 
-- ⚡ Fun fact **I graduated with a bachelor's degree and a master's degree in the field of international economic relations and business management. Computer technologies has always been my passion and I set out to combine the two areas in which I am good.**
+<span> </span>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">🛠️ Technologies and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/Html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> </p>
+
 <p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left"> <a href="https://www.linkedin.com/in/bozhidar-aladzhov-90003b186/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://github.com/BozhidarAladzhov" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="github" width="40" height="40"/> </a></p>
+- 📧 Email: bojidar.aladjov96@gmail.com
+
+<p align="left">
+
 
 ### 📚[My Java learning journey](https://softuni.bg/curriculum)
 | 🧾 Course | 📅 Duration | 🏆 Certificate | 🛠️ Skills | 
