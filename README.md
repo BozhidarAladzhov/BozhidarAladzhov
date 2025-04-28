@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Aladzhov</h1>
-<h2 align="center">A passionate backend java developer from Bulgaria.</h2>
+<h2 align="center">A passionate backend java developer.</h2>
 
 
 - 🎓 ***Junior Java Backend Developer***
   
-- 💡 **I graduated with a bachelor's degree and a master's degree in the field of international economic relations and business management. Computer technologies has always been my passion and I set out to combine the two areas in which I am good. I have above 10 years experience in freight forwarding narrowly specialized in international car shipping from USA and Canada. I found in programming the happiness of creating something useful for yourself and others.**
+- 💡 **I graduated with a bachelor's degree and a master's degree in the field of international economic relations and business management. Computer technologies has always been my passion and I set out to combine the two areas in which I am good. I have above 10 years experience in freight forwarding narrowly specialized in international car shipping from USA and Canada. In the process of working in transport and logistics, I discovered many gaps and problems that could be resolved and optimized, and consequently the time for completing a given task could be drastically reduced. This motivated me to start learning software development and the idea of creating something useful, for that my current projects are precisely related to transport and logistics.**
 
 <h3 align="left">📦 Projects:</h3>
 <p align="left">✅Vehicle transport calculator - SoftUni graduating project. <a href="https://github.com/BozhidarAladzhov/Vehicle-transport-calculator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
