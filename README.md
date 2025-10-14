@@ -8,7 +8,7 @@
 
 <h3 align="left">📦 Projects:</h3>
 <p align="left">✅ Vehicle transport calculator - SoftUni graduating project. <a href="https://github.com/BozhidarAladzhov/Vehicle-transport-calculator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
-<p align="left">🔜<a href = "http://91.99.25.209:8080/">Easy Import</a> - Vehicle transport calculator, started from scratch with my visions without following exam requirements and rules. <a href="https://github.com/BozhidarAladzhov/EasyImport" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
+<p align="left">✅<a href = "https://aladzhov.eu/">Aladzhov.eu </a> - I made a personal site where I implemented vehicle transport calculator and other instruments related to logistics. <a href="https://github.com/BozhidarAladzhov/EasyImport" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
 <p align="left">✅ WordDocumentsFiller</a> - Small tool that uses placeholders and generate automatically an offer. <a href="https://github.com/BozhidarAladzhov/WordDocumentsFiller" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
 
 
