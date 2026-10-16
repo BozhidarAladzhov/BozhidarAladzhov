@@ -8,8 +8,8 @@
 
 <h3 align="left">📦 Projects:</h3>
 <p align="left">✅ Vehicle transport calculator - SoftUni graduating project. <a href="https://github.com/BozhidarAladzhov/Vehicle-transport-calculator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
-<p align="left">✅<a href = "https://aladzhov.eu/">Aladzhov.eu </a> - I made a personal site where I implemented vehicle transport calculator and other instruments related to logistics. <a href="https://github.com/BozhidarAladzhov/EasyImport" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
-<p align="left">✅ WordDocumentsFiller</a> - Small tool that uses placeholders and generate automatically an offer. I'm using this local app to improve my working process. <a href="https://github.com/BozhidarAladzhov/WordDocumentsFiller" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="30" height="30"/></a>
+<p align="left">✅<a href = "https://aladzhov.eu/">Aladzhov.eu </a> - I made a personal site where I implemented vehicle transport calculator and other instruments related to logistics. 
+<p align="left">✅ WordDocumentsFiller</a> - Small tool that uses placeholders and generate automatically an offer. I'm using this local app to improve my working process. 
 
 
 <span> </span>
